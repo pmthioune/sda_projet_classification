@@ -7,5 +7,4 @@ Le projet est composé de 4 parties :
   - Partie 2 : La modélisation
   - Partie 3 : L’évaluation
 
-Avant de lancer le programme, il nécessaire d'installer le package xlrd pour lire les fichiers Excel avec le bout de code ci-dessous
-pip install xlrd
+
