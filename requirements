@@ -1,1 +1,2 @@
-Avant de lancer le programme il est 
+Avant de lancer le programme, il nécessaire d'installer le package xlrd pour lire les fichiers Excel avec le bout de code ci-dessous
+pip install xlrd
