@@ -1,2 +1,6 @@
 Avant de lancer le programme, il nécessaire d'installer le package xlrd pour lire les fichiers Excel avec le bout de code ci-dessous
 pip install xlrd
+
+Il faut également disposer les jeux de données contenus dans le dossier data.  
+
+Il faut s'assurer enfin que tous les librairies utiles au module sont bien installés
